@@ -1,0 +1,15 @@
+.side-bar{
+  position: fixed; 
+  left: 0px; 
+  bottom: 0px;
+  top: 63px;
+  width: 70px;
+  background-color: white;
+  
+ }
+ 
+ .side-bar-link{
+  height: 24px;
+ 
+ 
+ }
